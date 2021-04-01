@@ -1,0 +1,14 @@
+public class SeniorSoftwareEngineerOpportunities{
+
+  public static void main(String []args){
+    System.out.println("We are hiring");
+    System.out.println("Senior Software Engineers.");
+    System.out.println("If you want to design and write");
+    System.out.println("multi-threaded Java Code");
+    System.out.println("for high-volume / low latency applications");
+    System.out.println("which process billions of transactions p/day");
+    System.out.println("in <80 milliseconds");
+    System.out.println("then click on the link above");
+    System.out.println("or message me directly!");
+  }
+}
